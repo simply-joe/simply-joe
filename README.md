@@ -9,4 +9,4 @@ My name is Joe ...
 - 📫 joe [at] joekrawiec.com
 
 ### GitHub Stats
-![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=simply-joe&count_private=true&show_icons=true&theme=radical)
+![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=simply-joe&count_private=true&show_icons=true&theme=dracula)
