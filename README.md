@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/joseph-krawiec/)
 
 My name is Joe ...
-- 🔭 I’m currently working as an analytics engineer at cypress.io 
+- 🔭 I’m currently working as an analytics engineer at [cypress.io](https://www.cypress.io/)
 - 🌱 I’m passionate about open source 
 - 📫 joe [at] joekrawiec.com
 
