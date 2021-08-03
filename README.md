@@ -7,4 +7,3 @@ My name is Joe!
 - 🔭 I’m currently working as an analytics engineer at [cypress.io](https://www.cypress.io/)
 - 🦈 Formerly part of the team at [digitalocean](https://www.digitalocean.com/)
 - 🌱 Passionate about open source data products
-- 📫 joe [at] joekrawiec.com
